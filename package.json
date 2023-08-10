@@ -1,0 +1,25 @@
+{
+  "name": "cambridge-text-node",
+  "version": "1.0.0",
+  "description": "Cambridge text",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjtuxe/cambridge-text-node.git"
+  },
+  "author": "Zsolt Fekete <pjtuxe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjtuxe/cambridge-text-node/issues"
+  },
+  "homepage": "https://github.com/pjtuxe/cambridge-text-node#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
